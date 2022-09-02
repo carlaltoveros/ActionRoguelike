@@ -1,4 +1,4 @@
-# ActionRogueLike
+# ActionRoguelike
 
 From the [Tom Looman Unreal Engine Course](https://courses.tomlooman.com/p/unrealengine-cpp?coupon_code=COMMUNITY15&src=github)
 
